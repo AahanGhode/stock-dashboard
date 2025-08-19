@@ -1,6 +1,6 @@
 
 # Stock Dashboard
-#### Video Demo: <YOUR_VIDEO_URL_HERE>
+#### Video Demo: https://www.youtube.com/watch?v=Dk_U3xasSNk
 
 #### Description:
 
