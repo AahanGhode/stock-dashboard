@@ -1,5 +1,3 @@
-# stock-dashboard
-
 # Stock Dashboard
 #### Video Demo: <YOUR_VIDEO_URL_HERE>
 
